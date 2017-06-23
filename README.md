@@ -1,3 +1,3 @@
 # hello-world
-my first practice
+my practice
 It's so important to master a foreign language.
